@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My name is Thomas Cusick and I am a student in the inaugural cohort of the UVA BSDS program. I am also double majoring in Economics! This profile contains some assignments from my classes as we as some side projects sprinkled in.
 <!--
 **tcusick8/tcusick8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
